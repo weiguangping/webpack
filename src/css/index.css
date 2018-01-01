@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+    color: white;
+}
+
+#tupian {
+    background-image: url(../images/one.jpg);
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    transform: rotate(45deg);
+    box-shadow: 1px 1px 0 red;
+}
